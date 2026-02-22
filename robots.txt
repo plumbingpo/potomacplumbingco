@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://potomacplumbingco.com/sitemap.xml
